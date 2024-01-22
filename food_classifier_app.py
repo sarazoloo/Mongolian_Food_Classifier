@@ -6,7 +6,7 @@ import gdown
 
 st.markdown(""" # Mongolian Food Image Classifier
 
-There are a few traditional Mongolia dishes, which are:
+## There are a few traditional Mongolia dishes, which are:
 - Buuz
 - Khuushuur
 - Niislel Salad
